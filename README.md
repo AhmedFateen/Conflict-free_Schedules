@@ -1,6 +1,6 @@
 # Conflict-free Schedules
 
-This program takes a list of courses and their time slots and creates schedules out of them while eliminating schedule conflicts.
+This simple program takes a list of courses and their time slots and creates schedules out of them while eliminating schedule conflicts.
 Don't be too harsh, it's only 2 hours' work.
 
 Find below an annotated input.txt file.
