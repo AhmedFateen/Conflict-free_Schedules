@@ -1,0 +1,36 @@
+10
+CIE301L
+2
+Sunday 10:30 12:20
+Sunday 13:10 15:00
+CIE301T  
+2
+Monday 10:30 12:20
+Monday 14:10 16:00
+CIE302L
+1
+Monday 10:30 12:20
+CIE302T
+2
+Thursday 14:10 16:00
+Thursday 10:30 12:20
+CIE328L
+2
+Sunday 12:20 14:00
+Sunday 10:30 12:20
+CIE328T
+1
+Monday 12:20 14:00
+CIE337L
+1
+Wednesday 12:20 14:00
+CIE337T
+1
+Tuesday 12:20 14:00
+CIE417L
+1
+Wednesday 10:30 12:20
+CIE417T
+2
+Thursday 10:30 12:20
+Thursday 14:10 16:00
